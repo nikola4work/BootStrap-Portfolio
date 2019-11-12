@@ -16,7 +16,7 @@ body {
     border: 1px solid black;
     padding-left: 60px;
     width: 450px;
-    margin-left: 85px;
+    margin-left: 95px;
     margin-top: 10px;
     font-family: "Georgia", Times, Times New Roman, serif;
     background-color: #4aaaa5;
@@ -106,4 +106,36 @@ input {
     background-color: #666666;
     border-top: 6px solid #4aaaa5;
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    margin-top: 30px;
+    height: 64px;
+    padding-top: 20px;
+}
+
+
+/*Portofolio page */
+
+.port {
+    width: 240px;
+    height: 175px;
+}
+
+.p1 {
+    padding: 10px;
+}
+
+.portfolio {
+    border: 2px solid grey;
+    background-color: #ffffff;
+    margin-top: 45px;
+}
+
+.footer-portfolio {
+    text-align: center;
+    border: 1px solid black;
+    background-color: #666666;
+    border-top: 6px solid #4aaaa5;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    margin-top: 30px;
+    height: 64px;
+    padding-top: 20px;
 }
