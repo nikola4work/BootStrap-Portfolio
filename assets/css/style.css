@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+.myname {
+    border: 1px solid black;
+    padding-left: 110px;
+}
+
+.navigation {
+    border: 1px solid black;
+    padding-left: 110px;
+    padding-top: 20px;
+}
+
+.navigation a {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.main {
+    border: 1px solid black;
+    margin-top: 80px;
+}
+
+.img-fluid {
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 20px;
+}
+
+.aside {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.conect {
+    padding-top: 50px;
+}
+
+.aside a {
+    padding: 20px;
+}
+
+.footer {
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 50px;
+}
