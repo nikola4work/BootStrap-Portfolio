@@ -76,3 +76,34 @@ body {
     height: 78px;
     padding-top: 40px;
 }
+
+
+/* Contact page*/
+
+.contact {
+    border: 2px solid grey;
+    background-color: #ffffff;
+    margin-top: 45px;
+}
+
+.form-control {
+    width: 400px;
+    resize: none;
+}
+
+.contactme {
+    padding: 10px;
+    color: #4aaaa5;
+}
+
+input {
+    margin-bottom: 5px;
+}
+
+.footer-contact {
+    text-align: center;
+    border: 1px solid black;
+    background-color: #666666;
+    border-top: 6px solid #4aaaa5;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
