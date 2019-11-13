@@ -31,6 +31,12 @@ body {
 .navigation a {
     padding: 20px;
     font-size: 20px;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    cursor: pointer;
+    color: red;
 }
 
 .main {
@@ -57,6 +63,15 @@ body {
     text-align: center;
 }
 
+.fab {
+    color: grey;
+}
+
+.fab:hover {
+    cursor: pointer;
+    color: #4aaaa5;
+}
+
 .conect {
     padding-top: 50px;
     color: #4aaaa5;
@@ -75,6 +90,7 @@ body {
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     height: 78px;
     padding-top: 40px;
+    color: #eeeeee;
 }
 
 
@@ -119,6 +135,11 @@ input {
     height: 175px;
 }
 
+.port:hover {
+    cursor: pointer;
+    border: 1px solid #4aaaa5;
+}
+
 .p1 {
     padding: 10px;
 }
@@ -138,4 +159,5 @@ input {
     margin-top: 30px;
     height: 64px;
     padding-top: 20px;
+    color: #eeeeee;
 }
