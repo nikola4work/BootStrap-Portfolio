@@ -5,7 +5,7 @@
 #### By Nikola Jovanovic
 
 ## Description
-
+GW Coding BootCamp Homework Assigment
 ##### Introduction to Bootstrap framework.
 
 I have created web page to showcase my future work using bootstrap as a framework. 
